@@ -101,12 +101,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your dashboard inside the `screenshots` folder and include them here.
-
----
-
 ## 🔮 Future Enhancements
 
 * Machine Learning integration
