@@ -1,0 +1,21 @@
+Employee_ID,Age,Department,Salary_USD,Location,Performance_Score
+EMP001,29,Engineering,117799.55,Chicago,1
+EMP002,23,Finance,98298.08,San Francisco,3
+EMP003,39,HR,114570.26,Chicago,4
+EMP004,37,Engineering,108378.54,Chicago,3
+EMP005,36,HR,92898.25,San Francisco,1
+EMP006,30,Finance,127849.26,Chicago,2
+EMP007,28,Marketing,80282.75,New York,5
+EMP008,56,Sales,94163.25,Miami,3
+EMP009,27,Engineering,116352.37,San Francisco,2
+EMP010,59,HR,99481.58,Miami,4
+EMP011,49,Marketing,118936.55,San Francisco,4
+EMP012,24,Finance,121966.5,New York,2
+EMP013,25,Engineering,108157.06,Austin,1
+EMP014,35,Sales,102231.63,Austin,2
+EMP015,55,Engineering,91113.88,Austin,5
+EMP016,33,Marketing,66164.55,Miami,5
+EMP017,54,Engineering,92987.35,Chicago,4
+EMP018,48,Finance,74768.49,Austin,4
+EMP019,45,HR,71060.01,New York,2
+EMP020,40,Sales,126838.74,Austin,5
