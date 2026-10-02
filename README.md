@@ -265,15 +265,8 @@ Universal-Data-Visualator/
 │
 ├── architecture/
 │   └── aws-architecture.png
-│
-├── deployment/
-│   └── streamlit.service
-│
-└── screenshots/
-    ├── dashboard.png
-    ├── data-upload.png
-    ├── visualization.png
-    └── aws-ec2.png
+
+
 ```
 
 ---
