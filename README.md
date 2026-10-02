@@ -1,4 +1,4 @@
-# 📊 Universal Data Visualizer
+# 📊 Universal Data Visualator
 
 A professional and interactive **cloud-hosted data visualization dashboard** built using **Python, Streamlit, Pandas, and Plotly**.
 
