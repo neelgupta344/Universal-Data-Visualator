@@ -1,0 +1,23 @@
+                    USER
+                      │
+                      ▼
+                  Internet
+                      │
+                      ▼
+                AWS EC2 Instance
+                Ubuntu Linux
+                      │
+                      ▼
+                  systemd
+                      │
+                      ▼
+                 Streamlit
+                      │
+             ┌────────┴────────┐
+             ▼                 ▼
+           Pandas            Plotly
+             │                 │
+             └────────┬────────┘
+                      ▼
+            Universal Data
+               Visualator
