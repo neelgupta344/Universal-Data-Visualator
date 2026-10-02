@@ -29,7 +29,7 @@ Python Virtual Environment
   ↓
 Streamlit
   ↓
-Universal Data Visualizer
+Universal Data Visualator
 ```
 
 ---
@@ -115,7 +115,7 @@ The application has been deployed on an **Amazon EC2 Ubuntu Linux instance**.
           │                       │
           └───────────┬───────────┘
                       ▼
-           Universal Data Visualizer
+           Universal Data Visualator
 ```
 
 ### EC2 Configuration
@@ -229,7 +229,7 @@ Python Virtual Environment
         ↓
 Streamlit Application
         ↓
-Universal Data Visualizer
+Universal Data Visualator
 ```
 
 The service can be managed using:
@@ -255,7 +255,7 @@ sudo systemctl enable streamlit
 ## 📂 Project Structure
 
 ```text
-Universal-Data-Visualizer/
+Universal-Data-Visualator/
 │
 ├── app.py
 ├── requirements.txt
@@ -315,25 +315,6 @@ The application is hosted on Amazon EC2 and can be accessed remotely through a w
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Data Upload
-
-![Data Upload](screenshots/data-upload.png)
-
-### Data Visualization
-
-![Visualization](screenshots/visualization.png)
-
-### AWS EC2 Deployment
-
-![AWS EC2](screenshots/aws-ec2.png)
-
----
 
 ## 🔮 Future Enhancements
 
